@@ -6,9 +6,9 @@
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - Git basics
 
 ## Tools I Use
-- Text Editor: Visual Studio Code
-- Browser: Google Chrome
-- Note-taking: Microsoft OneNote
+- Text Editor: Visual Studio Code / Visual Studio
+- Browser: Google Chrome/ opera 
+- Note-taking: Microsoft OneNote/ notepad ++
 
 ## Study Schedule
 | Day | Topic | Time |
